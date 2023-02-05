@@ -1,8 +1,11 @@
 .block{
-    width: 100px;
     height: 100px;
-    color: #1488;
+    width: 500px;
+    background-color: #1488;
+    margin: 0;
 }
 .title{
     font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    margin: 0;
 }
